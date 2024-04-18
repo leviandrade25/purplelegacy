@@ -1,16 +1,16 @@
 #                           PURPLE LEGACY SET LIST
- - 1  Perfect Strangers
- - 2  Maybe I´m a Leo
- - 3  Mistreated
- - 4  Black Night
- - 5  Sail Away
- - 6  Anya
- - 7  Highway Star
- - 8  Strange Kind of Woman
- - 9  StormBringer
- - 10 Child in Time 
- - 11 Smoke on THe Water
- - 12 Burn
+ - 1  **Perfect Strangers**
+ - 2  **Maybe I´m a Leo**
+ - 3  **Mistreated**
+ - 4  **Black Night**
+ - 5  **Sail Away**
+ - 6  **Anya**
+ - 7  **Highway Star**
+ - 8  **Strange Kind of Woman**
+ - 9  **StormBringer**
+ - 10 **Child in Time**
+ - 11 **Smoke on THe Water**
+ - 12 **Burn**
 
 
  ### Local: Ioio Rock Bar
@@ -20,5 +20,5 @@
 
 
 ### Ioio Rock Bar
-<img source='ioio_rock_bar.png' title='ioio_rock_bar'>
+![Ioio Rock Bar](ioio_rock_bar.png)
 
