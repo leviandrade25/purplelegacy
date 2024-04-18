@@ -19,6 +19,11 @@
 
 
 
-### Ioio Rock Bar
+### Ioio Rock Bar [Instagram](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwic7qSC3syFAxUfD7kGHearD0IQFnoECBkQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fioiorockbar%2F&usg=AOvVaw3R-aj5BLI9I7xufVmtwpnu&opi=89978449)
 ![Ioio Rock Bar](ioio_rock_bar.png)
+
+
+## Purple Legacy [Instagram](https://www.instagram.com/bandapurplelegacy/)
+![Purple Legacy](purple.png)
+
 
