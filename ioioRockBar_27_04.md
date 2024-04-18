@@ -1,4 +1,4 @@
-<title>PURPLE LEGACY SET LIST</title>
+# PURPLE LEGACY SET LIST
  - 1  **Perfect Strangers**
  - 2  **Maybe I´m a Leo**
  - 3  **Mistreated**
