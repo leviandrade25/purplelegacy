@@ -1,4 +1,17 @@
-# PURPLE LEGACY SET LIST
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-image: url('purple.png');
+            background-size: cover; /* Para cobrir toda a área do corpo */
+            background-repeat: no-repeat; /* Evita a repetição da imagem */
+        }
+    </style>
+</head>
+<body>
+
+# PURPLE LEGACY SET LIST - IoIo Rock Bar 27/04
  - 1  **Perfect Strangers**
  - 2  **Maybe I´m a Leo**
  - 3  **Mistreated**
@@ -19,11 +32,12 @@
 
 
 
-### Ioio Rock Bar [Instagram](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwic7qSC3syFAxUfD7kGHearD0IQFnoECBkQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fioiorockbar%2F&usg=AOvVaw3R-aj5BLI9I7xufVmtwpnu&opi=89978449)
+### Ioio Rock Bar [Instagram ioiorockbar](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwic7qSC3syFAxUfD7kGHearD0IQFnoECBkQAQ&url=https%3A%2F%2Fwww.instagram.com%2Fioiorockbar%2F&usg=AOvVaw3R-aj5BLI9I7xufVmtwpnu&opi=89978449)
 ![Ioio Rock Bar](ioio_rock_bar.png)
 
 
-## Purple Legacy [Instagram](https://www.instagram.com/bandapurplelegacy/)
+## Purple Legacy [Instagram bandapurplelegacy](https://www.instagram.com/bandapurplelegacy/)
 ![Purple Legacy](purple.png)
 
-
+</body>
+</html>
